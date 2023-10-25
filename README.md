@@ -1,5 +1,12 @@
 <h1>Hi, I'm Javier! <br/><a href="https://github.com/fguerrer">Java Developer</a></h1>
 
+<h2>👨‍💻 Hello World:</h2>
+
+- 💻 Backend Developer
+- ⚡ From Uruguay
+- 🎓 Graduate of [Universidad Cátolica del Uruguay](https://www.ucu.edu.uy/)
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>NoSQL databases (AlgoExpert)</b>
@@ -14,7 +21,8 @@
 - <b>Wordpres plugins(PHP)</b>
   - [Generic plugin (Adding new Custom Types) ](https://github.com/fguerrer/generic-wordpress-plugin)
 
-
+<h2>👨‍💻 Community projects:</h2>
+Coming soon
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Fguerrer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
