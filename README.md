@@ -8,6 +8,8 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
+    Coming soon
+<h2>👨‍💻 Proof of Concepts (POC):</h2>
 
 - <b>NoSQL databases</b>
   - [MongoDB proof of concept (POC)](https://github.com/fguerrer/POC-MongoDB)
@@ -22,7 +24,7 @@
   - [Generic plugin (Adding new Custom Types) ](https://github.com/fguerrer/generic-wordpress-plugin)
 
 <h2>👨‍💻 Community projects:</h2>
-Coming soon
+    Coming soon
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Fguerrer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
