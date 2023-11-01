@@ -9,14 +9,14 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>NoSQL databases (AlgoExpert)</b>
+- <b>NoSQL databases</b>
   - [MongoDB proof of concept (POC)](https://github.com/fguerrer/POC-MongoDB)
 - <b>Frameworks</b>
   - [REST service deployment with Springboot proof of concept (POC)](https://github.com/fguerrer/POC-REST-Springboot)
 
 - <b>APIs</b>
   - [Facebook API Social posting proof of concept (POC)](https://github.com/fguerrer/POC-Facebook-API)
-  - [Open AI]
+  - [Open AI Java integration POC](https://github.com/fguerrer/POC-OpenAI-Java)
 
 - <b>Wordpres plugins(PHP)</b>
   - [Generic plugin (Adding new Custom Types) ](https://github.com/fguerrer/generic-wordpress-plugin)
