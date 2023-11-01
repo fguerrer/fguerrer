@@ -8,7 +8,9 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
-    Coming soon
+
+- [Generic plugin (Adding new Custom Types) ](https://github.com/fguerrer/generic-wordpress-plugin)
+        
 <h2>👨‍💻 Proof of Concepts (POC):</h2>
 
 - <b>NoSQL databases</b>
@@ -19,9 +21,6 @@
 - <b>APIs</b>
   - [Facebook API Social posting proof of concept (POC)](https://github.com/fguerrer/POC-Facebook-API)
   - [Open AI Java integration POC](https://github.com/fguerrer/POC-OpenAI-Java)
-
-- <b>Wordpres plugins(PHP)</b>
-  - [Generic plugin (Adding new Custom Types) ](https://github.com/fguerrer/generic-wordpress-plugin)
 
 <h2>👨‍💻 Community projects:</h2>
     Coming soon
