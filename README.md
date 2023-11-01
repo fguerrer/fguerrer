@@ -1,6 +1,6 @@
-<h1>Hi, I'm Javier! <br/><a href="https://github.com/fguerrer">Java Developer</a></h1>
+<h1>Hello World</h1>
 
-<h2>👨‍💻 Hello World:</h2>
+<h2>👨‍💻 About me:</h2>
 
 - 💻 Backend Developer
 - ⚡ From Uruguay
